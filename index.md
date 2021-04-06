@@ -8,7 +8,7 @@
 
 An offline ethernet frame analyser made in collaboration with [Kamil Szczerba](https://github.com/klavinski) for the network (LU3IN033 - Réseaux) course.
 
-[![Video presentation of the project](https://img.youtube.com/vi/q9IsAYpqCO4/0.jpg)](https://youtu.be/q9IsAYpqCO4).
+[![Video presentation of the project](https://img.youtube.com/vi/q9IsAYpqCO4/0.jpg)](https://youtu.be/q9IsAYpqCO4)
 
 
 ---
