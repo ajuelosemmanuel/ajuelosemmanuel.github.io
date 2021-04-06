@@ -3,6 +3,8 @@ logo: "/images/matronche.jpg?raw=true"
 description: > 
   Computer science student at Sorbonne Université
   <br><br>
+  <a href="https://ajuelosemmanuel.github.io/followedcourses">Followed Courses</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/ajuelosemmanuel/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
