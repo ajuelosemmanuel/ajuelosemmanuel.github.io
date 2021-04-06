@@ -2,34 +2,33 @@
 
 ---
 
-### Category Name 1 
+### Academic projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ethereal](https://github.com/klavinski/ethereal)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+An offline ethernet frame analyser made in collaboration with [Kamil Szczerba](https://github.com/klavinski) for the network (LU3IN033 - Réseaux) course.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+A presentation of the code can be found [here](https://youtu.be/q9IsAYpqCO4).
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### "For fun" projects
+
+[Loggers](https://github.com/ajuelosemmanuel/Loggers)
+
+Loggers is a little bot that can gather every single message from a text channel on discord.
+
+It can be used to save chats (by either creating txt files or writing everything in a new channel).
+
+Another usage could be some "spying" on channels you can't read as a user : if your bot has more permissions than you, you may run this one with your bot's api key and then "read" the content of hidden channels.
+
+
+---
+[Feurs](https://github.com/ajuelosemmanuel/FeursBot)
+
+Feurs is my first bot, and therefore I had no specific "goal" than experimenting with it.
+
+Its main functionality is that he answers messages ending with "quoi" by "feur" (funny pun, right ?).
+
+This aside, it can translate messages for a language to another and translate youtube videos. The other "functionalities" aren't that useful, those were really made for experimentation purposes.
