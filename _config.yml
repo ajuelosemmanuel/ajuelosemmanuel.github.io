@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Emmanuel Ajuelos
+logo: "/images/matronche.jpg?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hey ! I'm a computer science student at Sorbonne Université. I'm currently working on... well, getting decent grades and sometimes on random projects in order to learn new things. Just in case, my github profile can be found [here](https://github.com/ajuelosemmanuel). I play videogames a lot, especially osu! ([my profile](https://osu.ppy.sh/users/1067183)) and I sometimes stream stuff on [twitch](https://www.twitch.tv/emmanuel_osu). I like hiking and reading too, but let's go back to more serious stuff.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ajuelosemmanuel/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
