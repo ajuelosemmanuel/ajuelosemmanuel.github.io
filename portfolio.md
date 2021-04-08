@@ -27,7 +27,7 @@ Another usage could be some "spying" on channels you can't read as a user : if y
 
 [Ferdinand](https://github.com/ajuelosemmanuel/Ferdinand)
 
-<img src="https://github.com/ajuelosemmanuel/Ferdinand/media/ferdinand.png" alt="Project banner" width="200"/>
+<img src="https://github.com/ajuelosemmanuel/Ferdinand/raw/main/media/ferdinand.png" alt="Project banner" width="200"/>
 
 A basic speech to text app written in python which can either write directly or save to your clipboard what you just said.
 
