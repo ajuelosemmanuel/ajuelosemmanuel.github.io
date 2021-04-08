@@ -23,6 +23,15 @@ It can be used to save chats (by either creating txt files or writing everything
 
 Another usage could be some "spying" on channels you can't read as a user : if your bot has more permissions than you, you may run this one with your bot's api key and then "read" the content of hidden channels.
 
+---
+
+[Ferdinand](https://github.com/ajuelosemmanuel/Ferdinand)
+
+<img src="https://github.com/ajuelosemmanuel/Ferdinand/media/ferdinand.png" alt="Project banner" width="200"/>
+
+A basic speech to text app written in python which can either write directly or save to your clipboard what you just said.
+
+The purpose behind it was to learn how GUIs worked and to try to make a standalone application. I had issues with making one that works as the microphone couldn't be detected for some reason.
 
 ---
 [Feurs](https://github.com/ajuelosemmanuel/FeursBot)
